@@ -20,7 +20,7 @@ import java.util.*
 object MonotonicStack {
     @JvmStatic
     fun main(args: Array<String>) {
-        maxRecFromBottom(intArrayOf(2, 1, 5, 6, 2, 3))
+        maxRecSiz(arrayOf(intArrayOf(1, 0, 1, 1), intArrayOf(1, 1, 1, 1), intArrayOf(1, 1, 1, 0)))
     }
 
     fun monotonicStack(nums: IntArray) {

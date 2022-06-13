@@ -1,6 +1,8 @@
 package FaceQuestion.someDemo;
 
 
+import java.util.LinkedHashSet;
+
 /**
  * 给定一个数组arr,和一个整数aim,请返回哪两个位置的数可
  * 以加出aim来

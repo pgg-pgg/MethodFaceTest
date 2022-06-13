@@ -9,13 +9,6 @@ object Test {
 
     @JvmStatic
     fun main(args: Array<String>) {
-//        OrderLogarithm.test(500000, 100, 100, object : IOrderListener {
-//            override fun order(array: IntArray): IntArray {
-////                return BubbleOrder.bubbleOrder(array)
-////                return SelectOrder.selectOrder(array)
-//                return InsertOrder.insertOrder(array)
-//            }
-//        })
 
         print(-1/2)
 
